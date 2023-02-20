@@ -1,0 +1,11 @@
+body{
+    background: #e9e9e9;
+}
+.ItemDiv{
+    height: auto;
+    width: 700px;
+    background: #b3b3b3;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 20px 0 20px 20px;
+}
