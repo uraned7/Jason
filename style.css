@@ -1,11 +1,43 @@
-body{
-    background: #e9e9e9;
+
+
+#header{
+    display: flex;
+}
+
+#cart{
+    margin-left: auto;
 }
 .ItemDiv{
     height: auto;
-    width: 700px;
+    width: 600px;
     background: #b3b3b3;
     border-radius: 12px;
     padding: 10px;
     margin: 20px 0 20px 20px;
+}
+.ItemHeader{
+    display: flex;
+    align-items: center;
+}
+
+.ItemInfo{
+    display:flex;
+    justify-items: auto;
+}
+
+#Category{
+    margin-left: auto;
+}
+#Rating{
+    margin-left: auto;
+}
+#Buy{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#ItemImage{
+    height: 100%;
+    width: auto;
 }
